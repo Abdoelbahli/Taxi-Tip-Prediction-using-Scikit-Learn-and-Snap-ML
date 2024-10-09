@@ -53,7 +53,7 @@ The main objectives are:
 
 1. Open the Jupyter notebook:
    ```bash
-   jupyter notebook Regression_Trees_SnapML.ipynb
+   jupyter notebook Taxi Tip Prediction using Scikit-Learn and Snap ML.ipynb
    ```
 2. Follow the steps outlined in the notebook to load, preprocess, and analyze the taxi dataset.
    
@@ -72,7 +72,7 @@ Ensure the dataset is placed in the `data/` folder before running the notebook.
 
 ```bash
 .
-├── Taxi_Tip_Prediction_using_Scikit-Learn_and_Snap_ML.ipynb  # Main Jupyter notebook for the project
+├── Taxi Tip Prediction using Scikit-Learn and Snap ML.ipynb  # Main Jupyter notebook for the project
 ├── data/                          # Folder containing the dataset (not included)
 ├── README.md                      # Project README file
 └── requirements.txt               # Required Python libraries
